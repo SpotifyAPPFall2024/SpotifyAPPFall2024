@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Presentation
 sidebar_link: true
 ---
 
